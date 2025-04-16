@@ -1,0 +1,3 @@
+#### Overview of the Python Toolbox Course
+
+Advanced Python skills are built upon in this course. Iterators, which have been encountered previously in the context of for loops, are examined initially. Following this, list comprehensions are introduced as useful tools for data professionals and developers utilizing Python. The course concludes with a case study, allowing for the application of all techniques learned throughout the course.

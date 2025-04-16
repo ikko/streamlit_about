@@ -1,0 +1,6 @@
+div[data-testid="stExpander"] details summary p{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}

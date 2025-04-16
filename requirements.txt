@@ -1,0 +1,16 @@
+streamlit
+openai
+numpy
+pandas
+scikit-learn
+sentence-transformers
+streamlit_mermaid
+faiss-cpu
+tiktoken
+rank_bm25
+st-clickable-images
+unstructured
+sendgrid
+dotenv
+orjson
+tqdm
