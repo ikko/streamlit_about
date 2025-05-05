@@ -1,8 +1,9 @@
-# 📡 streamlit_about: 
-# RAG-Powered Personal Knowledge App
+# 📡 streamlit_about
+### RAG-Powered Personal Knowledge App
+
 ## 🧠 Overview
 
-`streamlit_about` is an open-source application that showcases a [Retrieval-Augmented Generation](https://cloud.google.com/use-cases/retrieval-augmented-generation) (RAG) system, delivering personalized Question and Answer (Q\&A) experiences about Miklós. Written in [Python](https://www.python.org), it integrates modern [Natural Language Processing](https://aws.amazon.com/what-is/nlp/) (NLP) techniques, vector search, and modular backend design to provide an interactive and informative user experience.
+`streamlit_about` is an open-source application that showcases a [Retrieval-Augmented Generation](https://cloud.google.com/use-cases/retrieval-augmented-generation) (RAG) system, delivering personalized Question and Answer (Q\&A) experiences about Miklós. Written in Python, it integrates modern [Natural Language Processing](https://aws.amazon.com/what-is/nlp/) (NLP) techniques, vector search, and modular backend design to provide an interactive and informative user experience.
 
 - **Live App**: [about-miklos.streamlit.app](https://about-miklos.streamlit.app/)
 - **Source Code**: [github.com/ikko/streamlit\_about](https://github.com/ikko/streamlit_about)
@@ -86,6 +87,8 @@ bash start.sh
 ```
 
 This will launch the Streamlit app locally.
+
+---
 
 ## 📁 Project Structure
 
