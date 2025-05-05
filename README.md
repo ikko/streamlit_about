@@ -65,6 +65,10 @@ Employs FAISS for **high-speed** [similarity searches](https://medium.com/@serka
 
 ---
 
+## 🖥️ User Interface Screenshot
+
+[![User Interface Screenshot](https://raw.githubusercontent.com/ikko/streamlit_about/df6c3b0e210e178ffdf559981a174087c43bc458/images/user_interface_screenshot.png)](https://about-miklos.streamlit.app/)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
