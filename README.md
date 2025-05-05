@@ -3,7 +3,7 @@
 
 ## 🧠 Overview
 
-`streamlit_about` is an open-source application that showcases a [Retrieval-Augmented Generation](https://cloud.google.com/use-cases/retrieval-augmented-generation) (RAG) system, delivering personalized Question and Answer (Q\&A) experiences about Miklós. Written in Python, it integrates modern [Natural Language Processing](https://aws.amazon.com/what-is/nlp/) (NLP) techniques, vector search, and modular backend design to provide an interactive and informative user experience.
+`streamlit_about` is an open source application showcasing a [Retrieval-Augmented Generation](https://cloud.google.com/use-cases/retrieval-augmented-generation) (RAG) system that delivers personalised, AI-driven, real-time question and answer experiences by Miklós. Written by Miklós in Python, it integrates modern [Natural Language Processing](https://aws.amazon.com/what-is/nlp/) (NLP) techniques with state-of-the-art [Large Language Models](https://www.databricks.com/glossary/large-language-models-llm) (LLMs) engineering, vector search, along with a robust and modular backend design to provide an informative and interactive user experience.
 
 - **Live App**: [about-miklos.streamlit.app](https://about-miklos.streamlit.app/)
 - **Source Code**: [github.com/ikko/streamlit\_about](https://github.com/ikko/streamlit_about)
